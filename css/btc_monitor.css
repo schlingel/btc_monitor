@@ -1,0 +1,34 @@
+#btc-monitor-area {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
+
+.btc-fee-box {
+  display: inline-block;
+  position: relative;
+  padding: 65px;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  text-align: center;
+  background-color: #F15A23;
+  margin: 5px;
+  border: 1px solid #F0F0F0;
+}
+
+.btc-price-display {
+  font-size: 32px;
+  color: white;
+  font-weight: bold;
+}
+
+.btc-fee-label {
+  position: absolute;
+  text-align: center;
+  left: 0;
+  right: 0;
+  bottom: 0px;
+  padding: 10px;
+  font-size: 14px;
+  background-color: white;
+  color: black;
+}
